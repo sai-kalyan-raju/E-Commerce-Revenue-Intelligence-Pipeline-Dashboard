@@ -4,7 +4,7 @@
 An end-to-end data engineering and business intelligence project designed to analyze multi-year e-commerce sales. This project translates raw transaction logs into an executive Power BI dashboard, focusing on accurate target tracking, unit economics (AOV), and granular profitability analysis. 
 
 ## 🏗️ Architecture & Tech Stack
-**Data Extraction & Transformation (ETL):** Python (Pandas, NumPy)
+**Data Extraction & Transformation (ETL):** Python (Pandas)
 **Storage & Database:** SQLite
 **Business Intelligence & Visualization:** Power BI, DAX
 **Data Modeling:** Star Schema with a custom Composite Key
